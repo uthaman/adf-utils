@@ -1,5 +1,3 @@
-package com.atism.primelt.common.util;
-
 import java.util.Iterator;
 
 import javax.faces.component.UIComponent;
